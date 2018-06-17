@@ -1,0 +1,17 @@
+-R . VUP
+
+aux.v
+vup.v
+
+# Extraction Base
+#setref.v
+#mapref.v
+#ExtrVupBasic.v
+
+# Extraction Core
+#vup_refined.v
+#vup_extract.v
+
+# Proofs of refinement
+#vup_refined_proofs.v
+

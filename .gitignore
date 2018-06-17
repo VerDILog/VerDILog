@@ -1,0 +1,9 @@
+*~
+*.vo
+*.aux
+*.glob
+.coqdeps.d
+
+vfile-stamp
+Makefile.coq
+Makefile.coq.conf
