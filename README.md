@@ -1,5 +1,15 @@
 # Code for the ICLP 2018 paper "Certified Graph View Maintenance with Regular Datalog"
 
+## Bibliography:
+
+Angela Bonifati, Stefania Dumbrava, and Emilio Jesus Gallego Arias
+**Certified Graph View Maintenance with Regular Datalog** _Theory and
+Practice of Logic Programming_ Volume 18, (issue 3-4, 34th
+International Conference on Logic Programming) July 2018 , pp. 372-38
+
+- [CUP](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/certified-graph-view-maintenance-with-regular-datalog/889694FBB122E0823DD9F726511CDA69)
+- [ArXiV](https://arxiv.org/abs/1804.10565)
+
 ## Requirements:
 
 Using the OPAM package manager is recommended.
